@@ -1,0 +1,8 @@
+The code uses:
+z = (observed value - athlete mean)
+    / athlete standard deviation
+
+For example:
+z = +2.5
+means the observation is substantially above that athlete's normal level.
+A negative value means it is below the athlete's baseline.
