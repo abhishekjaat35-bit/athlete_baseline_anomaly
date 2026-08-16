@@ -1,0 +1,11 @@
+The system uses:
+|Z| < 1.5
+       ↓
+NORMAL
+1.5 ≤ |Z| < 2.0
+       ↓
+WATCH
+|Z| ≥ 2.0
+       ↓
+ANOMALY
+These are educational thresholds, not clinically validated sports-science cutoffs.
